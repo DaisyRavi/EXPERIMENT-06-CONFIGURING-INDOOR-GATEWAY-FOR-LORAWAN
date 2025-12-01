@@ -119,20 +119,18 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## OUTPUT 
+![WhatsApp Image 2025-11-24 at 13 09 25_48c66132](https://github.com/user-attachments/assets/f16d75e8-cf27-4803-bd6f-2b1d7dc79774)
 
-<img width="1920" height="1200" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/fdc22c47-47f5-4e0e-9a7f-1f79137b68f7" />
+<img width="1909" height="1192" alt="Screenshot 2025-11-24 103437" src="https://github.com/user-attachments/assets/60a22174-bd3e-42fc-b0b0-9dada51aab05" />
+<img width="1918" height="1199" alt="Screenshot 2025-11-24 103502" src="https://github.com/user-attachments/assets/311c429f-995a-4e14-8bff-9cda5f132106" />
+<img width="1914" height="1196" alt="Screenshot 2025-11-24 103510" src="https://github.com/user-attachments/assets/b1c8d722-36c2-475c-8dfa-6539247fbdc6" />
+<img width="1915" height="1193" alt="Screenshot 2025-11-24 103525" src="https://github.com/user-attachments/assets/30194e64-cd40-4790-a44d-0b8a29b43f12" />
 
-<img width="1920" height="1200" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/e835f308-2cc1-49e5-a502-c305fbbe55ed" />
+<img width="1918" height="1199" alt="Screenshot 2025-11-24 104155" src="https://github.com/user-attachments/assets/335597ee-6363-4c67-9309-e31286869214" />
+<img width="1918" height="1195" alt="Screenshot 2025-11-24 104205" src="https://github.com/user-attachments/assets/d2bbb774-f091-4291-b295-a7081b6d0313" />
+<img width="1919" height="1199" alt="Screenshot 2025-11-24 104325" src="https://github.com/user-attachments/assets/fed21aad-191e-465e-870d-69c1a73693ef" />
+<img width="1915" height="1199" alt="Screenshot 2025-11-24 104344" src="https://github.com/user-attachments/assets/7558f340-fcaa-46bc-95c1-e7fc3b105953" />
 
-<img width="1920" height="1200" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/e3b17be2-180e-44f8-99bc-4974884b73f3" />
-
-<img width="1920" height="1200" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/74839341-296a-420c-b3f3-88aefa7d4957" />
-
-<img width="1920" height="1200" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/c05281ea-5f72-4ed6-a542-a3c3114368e7" />
-
-<img width="1920" height="1200" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/8581745f-7db0-42c6-9a53-2a2b98820067" />
-
-<img width="1920" height="1200" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/8eb6746f-6c10-4b26-9dfa-6c36f9e9edbc" />
 
 
 
